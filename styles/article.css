@@ -1,0 +1,26 @@
+.article-title {
+  font-family: 'Sinkin Sans';
+  font-size: 28pt;
+  color: #4f4e4b;
+}
+
+.article-subtitle {
+  font-family: 'Sinkin Sans';
+  font-size: 22pt;
+  color: #898782;
+}
+
+.article p {
+  font-family: 'Source Sans Pro';
+  font-size: 18pt;
+  color: #4f4e4b;
+  margin-top: 1em;
+}
+
+.article-footer {
+  font-family: 'Source Sans Pro';
+  font-size: 16pt;
+  color: #4f4e4b;
+  margin: 1em auto;
+  text-align: center;
+}

@@ -1,0 +1,16 @@
+/* Font Definitions */
+
+@font-face {
+  font-family: 'Sinkin Sans';
+  src: url('./sinkin/sinkinsans-regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('./sourcesans/sourcesans-regular.woff2') format('woff2'),
+         url('./sourcesans/sourcesans-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
